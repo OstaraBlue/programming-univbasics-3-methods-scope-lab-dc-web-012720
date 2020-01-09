@@ -13,7 +13,6 @@ def link
   puts warning
 end
 
-def any_phrase(phrase)
-  catch = "Do A Barrell Roll"
-  puts catch
+def any_phrase(phrase = "Do A Barrell Roll")
+  
 end 
